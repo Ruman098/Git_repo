@@ -1,4 +1,3 @@
 ## Readme.md
 
-A new branch is being added.
-
+A new branch is being added
